@@ -1,7 +1,7 @@
 from langchain.schema import SystemMessage
 import streamlit as st
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "" # Key is removed for security purpose
 
 bot_symbol = {
     "Doris - General (Default)" : "Doris", 
