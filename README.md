@@ -9,4 +9,3 @@ It involves converting the PDF texts into the vector database.
    e.g. (Grammer checker, Email Assistence, Senior programmer)
 
 
-Website link: https://gptchatbot.streamlit.app/
